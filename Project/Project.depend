@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1698379065 source:c:\users\manh\onedrive - hanoi university of science and technology\desktop\code\hn\samplecode\kit\prj\main.c
+	<mcs51/8052.h>
+	"lcd1602.h"
+	"string.h"
+	<stdio.h>
+
+1696314300 c:\users\manh\onedrive - hanoi university of science and technology\desktop\code\hn\samplecode\kit\prj\lcd1602.h
+
+1698377874 c:\users\manh\onedrive - hanoi university of science and technology\desktop\code\hn\samplecode\kit\prj\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
