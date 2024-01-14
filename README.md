@@ -20,4 +20,5 @@ Về phương pháp sử lý sự kiện bấm nút:
 Sử dụng các bước như sau:
 1. Đưa điện vào cả 4 hàng, check xem đang bấm ở cột nào
 2. Tăt điện ở cả 4 hàng, đưa điện vào từng hàng, check xem chính xác đang bấm ở hàng nào
-   Từ đó chúng ta biết được là đang bấm ở nút nào
+
+Từ đó chúng ta biết được là đang bấm ở nút nào
